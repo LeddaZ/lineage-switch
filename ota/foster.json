@@ -1,12 +1,12 @@
 {
     "response": [
       {
-        "datetime": 1620591456,
-        "filename": "lineage-17.1-20210509-UNOFFICIAL-foster-signed.zip",
-        "id": "f05e35916046967b4e6013dcf4e84988",
+        "datetime": 1621371774,
+        "filename": "lineage-17.1-20210518-UNOFFICIAL-foster-signed.zip",
+        "id": "940b77ac1f7701367a56c263898a4503",
         "romtype": "unofficial",
         "size": 550244352,
-        "url": "https://sourceforge.net/projects/leddaz/files/lineage-switch/lineage-17.1/atv/lineage-17.1-20210509-UNOFFICIAL-foster-signed.zip/download",
+        "url": "https://github.com/LeddaZ/lineage-switch/releases/download/20210518/lineage-17.1-20210518-UNOFFICIAL-foster-signed.zip",
         "version": "17.1"
       }
     ]
