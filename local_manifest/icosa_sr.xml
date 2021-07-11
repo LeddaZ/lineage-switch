@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+           
+  <!-- My Updater fork -->
+  <project path="packages/apps/Updater" name="LeddaZ/android_packages_apps_Updater" remote="github" revision="lineage-17.1-icosa_sr" />
+  
+</manifest>

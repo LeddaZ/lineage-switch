@@ -5,6 +5,6 @@ These builds are signed with my own keys, so a clean flash is required if coming
 
 Steps:
 - Go to the [latest release](https://github.com/LeddaZ/lineage-switch/releases/latest)
-- For standard Android, extract `tab.zip` to the SD card root and copy the `lineage-17.1-XXXXXXXX-UNOFFICIAL-foster_tab-signed.zip` to the same location
-- For Android TV, extract `atv.zip` to the SD card root and copy the `lineage-17.1-XXXXXXXX-UNOFFICIAL-foster-signed.zip` to the same location
+- For standard Android, extract `tab.zip` to the SD card root and copy `lineage-17.1-XXXXXXXX-UNOFFICIAL-icosa_sr-signed.zip` to the same location
+- For Android TV, extract `atv.zip` to the SD card root and copy `lineage-17.1-XXXXXXXX-UNOFFICIAL-icosa_tv_sr-signed.zip` to the same location
 - Then follow the instructions in the official XDA thread above
