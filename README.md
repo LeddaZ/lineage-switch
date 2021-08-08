@@ -19,8 +19,8 @@ Latest build is at the top, first build at the bottom.
 
 | LineageOS | crDroid |
 | :-: | :-: |
-| [20210807](https://github.com/LeddaZ/android-switch/releases/tag/20210807-lineage) | |
-| [20210712](https://github.com/LeddaZ/android-switch/releases/tag/20210712) | [20210723](https://github.com/LeddaZ/android-switch/releases/tag/20210723-cr) |
+| [20210807](https://github.com/LeddaZ/android-switch/releases/tag/20210807-lineage) | [20210723](https://github.com/LeddaZ/android-switch/releases/tag/20210723-cr) |
+| [20210712](https://github.com/LeddaZ/android-switch/releases/tag/20210712) | |
 | [20210518](https://github.com/LeddaZ/android-switch/releases/tag/20210518) | |
 
 # Credits
