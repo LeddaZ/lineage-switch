@@ -22,3 +22,7 @@ Latest build is at the top, first build at the bottom.
 | [20210807](https://github.com/LeddaZ/android-switch/releases/tag/20210807-lineage) | |
 | [20210712](https://github.com/LeddaZ/android-switch/releases/tag/20210712) | [20210723](https://github.com/LeddaZ/android-switch/releases/tag/20210723-cr) |
 | [20210518](https://github.com/LeddaZ/android-switch/releases/tag/20210518) | |
+
+# Credits
+- The [Switchroot](https://gitlab.com/switchroot) team for making all of this possible
+- [ZachyCatGames](https://gitlab.com/ZachyCatGames) for making a great [guide](https://gitlab.com/ZachyCatGames/q-tips-guide) (from which I also got the OC coreboot)
