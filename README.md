@@ -7,7 +7,7 @@ Builds are signed with my own keys, so a clean flash is required if coming from/
 - Download the ROM from the [Releases](https://github.com/LeddaZ/lineage-switch/releases/latest) section.
 - For standard Android, extract `tab.zip` to the SD card root and copy `lineage-17.1-XXXXXXXX-UNOFFICIAL-icosa_sr-signed.zip` to the same location.
 - For Android TV, extract `atv.zip` to the SD card root and copy `lineage-17.1-XXXXXXXX-UNOFFICIAL-icosa_tv_sr-signed.zip` to the same location.
-- If you want GApps, I recommend [OpenGApps](https://opengapps.org/) (use ARM64 10.0 pico).
+- If you want GApps, I recommend [OpenGApps](https://opengapps.org/) (use ARM64 10.0 pico, or tvmini for Android TV).
 - If you want root, download the latest version of [Magisk](https://github.com/topjohnwu/Magisk/releases/latest).
 - Follow the flashing instructions in the official XDA thread above.
 
