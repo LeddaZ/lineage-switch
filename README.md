@@ -16,6 +16,6 @@ To update just flash the zip in TWRP, or update from Settings (supported on Sept
 ## RAM OC
 If you want to overclock the RAM to 1862MHz, download [this](https://raw.githubusercontent.com/LeddaZ/android-switch/main/coreboot_oc.rom) coreboot, copy it to `/switchroot/android` in your SD card and rename it to `coreboot.rom`. You'll have to redo these steps every time you flash a ROM zip.
 
-# Credits
+## Credits
 - The [Switchroot](https://gitlab.com/switchroot) team for making all of this possible
 - [ZachyCatGames](https://gitlab.com/ZachyCatGames) for making a great [guide](https://gitlab.com/ZachyCatGames/q-tips-guide) (from which I also got the OC coreboot)
