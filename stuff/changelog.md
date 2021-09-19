@@ -1,4 +1,9 @@
-# LineageOS 17.1 changelog
+# Changelog
+
+## 20210919
+- September 2021 security patches
+- Latest Switchroot updates
+- Re-added OTA support
 
 ## 20210807
 - August security patches
