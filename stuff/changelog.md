@@ -1,5 +1,9 @@
 # Changelog
 
+## 20211011
+- Updater URLs (OTA and changelog) are now set with overlays, instead of overriding props/strings
+- October 2021 security patches
+
 ## 20210919
 - September 2021 security patches
 - Latest Switchroot updates

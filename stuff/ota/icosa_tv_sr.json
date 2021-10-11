@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1632074164,
-      "filename": "lineage-17.1-20210919-UNOFFICIAL-icosa_tv_sr-signed.zip",
-      "id": "453081c71ff1f41b8d9d4e928fd93662",
+      "datetime": 1633978653,
+      "filename": "lineage-17.1-20211011-UNOFFICIAL-icosa_tv_sr-signed.zip",
+      "id": "51dbb9278713c55c491c77cade2a3890",
       "romtype": "unofficial",
-      "size": 526880768,
-      "url": "https://github.com/LeddaZ/lineage-switch/releases/download/20210919/lineage-17.1-20210919-UNOFFICIAL-icosa_tv_sr-signed.zip",
+      "size": 527101952,
+      "url": "https://github.com/LeddaZ/lineage-switch/releases/download/20211011/lineage-17.1-20211011-UNOFFICIAL-icosa_tv_sr-signed.zip",
       "version": "17.1"
     }
   ]
