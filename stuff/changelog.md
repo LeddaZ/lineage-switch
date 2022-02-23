@@ -1,5 +1,12 @@
 # Changelog
 
+## 20220222 / 20220223
+- February 2022 security patches
+- Added headphone mic support
+- Enabled CEC HAL
+- Various fixes and improvements
+- Latest Switchroot updates and fixes
+
 ## 20211011
 - Updater URLs (OTA and changelog) are now set with overlays, instead of overriding props/strings
 - October 2021 security patches
