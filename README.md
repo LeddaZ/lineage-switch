@@ -3,7 +3,7 @@ Unofficial LineageOS 17.1 builds (based on Android 10) for the Nintendo Switch. 
 
 Builds are signed with my own keys, so a clean flash may be required if coming from/to official/other builds.
 
-** Do NOT report any issues you encounter with my builds to the Switchroot team on Discord or other platforms. Only report them issues with their official builds, they can't do anything about unofficial releases. **
+**Do NOT report any issues you encounter with my builds to the Switchroot team on Discord or other platforms. Only report them issues with their official builds, they can't do anything about unofficial releases.**
 
 ## Steps
 - Download `icosa-tab-XXXXXXXX-dev.zip` (Standard Android) or `icosa-atv-XXXXXXXX-dev.zip` (Android TV) from the [Releases](https://github.com/LeddaZ/lineage-switch/releases/latest) page.
