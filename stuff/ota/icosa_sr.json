@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1645610865,
-      "filename": "lineage-17.1-20220222-UNOFFICIAL-icosa_sr-signed.zip",
-      "id": "01fecc62898d876bbfa7ddc39f7ab020",
+      "datetime": 1650041458,
+      "filename": "lineage-17.1-20220415-UNOFFICIAL-icosa_sr-signed.zip",
+      "id": "418909a0c37fd6082f697877146cc74c",
       "romtype": "unofficial",
-      "size": 650412032,
-      "url": "https://github.com/LeddaZ/lineage-switch/releases/download/20220222/lineage-17.1-20220222-UNOFFICIAL-icosa_sr-signed.zip",
+      "size": 651669504,
+      "url": "https://github.com/LeddaZ/lineage-switch/releases/download/20220415/lineage-17.1-20220415-UNOFFICIAL-icosa_sr-signed.zip",
       "version": "17.1"
     }
   ]

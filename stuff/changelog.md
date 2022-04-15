@@ -1,5 +1,12 @@
 # Changelog
 
+## 20220415
+* April security patches
+* Latest Switchroot updates and fixes:
+  * Added sensor calibration support
+  * Fixed possible issues with Wi-Fi and gyroscope
+  * Other minor fixes and updates
+
 ## 20220222 / 20220223
 - February 2022 security patches
 - Added headphone mic support
