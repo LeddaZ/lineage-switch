@@ -8,7 +8,7 @@ Builds are signed with my own keys, so a clean flash may be required if coming f
 ## Steps
 - Download `icosa-tab-XXXXXXXX-dev.zip` (Standard Android) or `icosa-atv-XXXXXXXX-dev.zip` (Android TV) from the [Releases](https://github.com/LeddaZ/lineage-switch/releases/latest) page.
 - Extract the zip file's contents to the SD card root.
-- If you want GApps, I recommend [OpenGApps](https://opengapps.org/) (use ARM64 10.0 pico, or tvmini for Android TV).
+- If you want GApps, use [MindTheGApps](https://androidfilehost.com/?w=files&flid=322935) (choose `10.0.0-arm64`) for standard Android or [OpenGApps](https://opengapps.org/?arch=arm64&api=10.0&variant=tvmini) for Android TV, as recommended by the LineageOS team (more info [here](https://wiki.lineageos.org/gapps)).
 - If you want root, download the latest version of [Magisk](https://github.com/topjohnwu/Magisk/releases/latest).
 - Follow the flashing instructions [here](https://wiki.switchroot.org/en/Android/Setup-10#steps) (from step 4 onwards).
 
