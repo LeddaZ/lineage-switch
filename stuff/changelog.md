@@ -1,5 +1,8 @@
 # Changelog
 
+## 20220718
+- July security patches
+
 ## 20220415
 * April security patches
 * Latest Switchroot updates and fixes:
