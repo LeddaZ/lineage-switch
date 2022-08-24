@@ -1,5 +1,8 @@
 # Changelog
 
+## 20220824
+- August 2022 security patches
+
 ## 20220718
 - July security patches
 
