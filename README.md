@@ -6,11 +6,11 @@ Builds are signed with my own keys, so a clean flash may be required if coming f
 **Do NOT report any issues you encounter with my builds to the Switchroot team on Discord or other platforms. Only report them issues with their official builds, they can't do anything about unofficial releases.**
 
 ## Steps
-- Download `icosa-tab-XXXXXXXX-dev.zip` (Standard Android) or `icosa-atv-XXXXXXXX-dev.zip` (Android TV) from the [Releases](https://github.com/LeddaZ/lineage-switch/releases/latest) page.
+- Download `icosa-tab-XXXXXXXX-dev.zip` (standard Android) or `icosa-atv-XXXXXXXX-dev.zip` (Android TV) from the [Releases](https://github.com/LeddaZ/lineage-switch/releases/latest) page.
 - Extract the zip file's contents to the SD card root.
 - If you want GApps, use [MindTheGApps](https://androidfilehost.com/?w=files&flid=322935) (choose `10.0.0-arm64`) for standard Android or [OpenGApps](https://opengapps.org/?arch=arm64&api=10.0&variant=tvmini) for Android TV, as recommended by the LineageOS team (more info [here](https://wiki.lineageos.org/gapps)).
 - If you want root, download the latest version of [Magisk](https://github.com/topjohnwu/Magisk/releases/latest).
-- Follow the flashing instructions [here](https://wiki.switchroot.org/en/Android/Setup-10#steps) (from step 4 onwards).
+- Follow the flashing instructions [here](https://wiki.switchroot.org/en/Android/Setup-10#steps) (from step 2 onwards).
 
 To update, download `lineage-17.1-XXXXXXXX-UNOFFICIAL-icosa_sr.zip` (standard Android) or `lineage-17.1-XXXXXXXX-UNOFFICIAL-icosa_tv_sr.zip` (Android TV) and flash it in TWRP. You can also update from Settings -> System -> Updater (supported on September 2021 builds and newer).
 
