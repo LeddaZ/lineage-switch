@@ -1,3 +1,0 @@
-# Changelog
-
-## Empty for now
