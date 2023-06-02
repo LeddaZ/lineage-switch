@@ -1,5 +1,5 @@
 # lineage-switch
-Unofficial LineageOS 17.1 and 18.1 builds (based on Android 10 and 11 respectively) for the Nintendo Switch. Official Switchroot Android 10 builds are available [here](https://wiki.switchroot.org/en/Android/Setup-10).
+Unofficial LineageOS 17.1 and 18.1 builds (based on Android 10 and 11 respectively) for the Nintendo Switch. Official Switchroot builds are available here: [10](https://wiki.switchroot.org/en/Android/Setup-10), [11](https://wiki.switchroot.org/en/Android/Setup-11).
 
 Builds are signed with my own keys, so a clean flash may be required if coming from/to official/other builds.
 
@@ -17,19 +17,12 @@ Builds are signed with my own keys, so a clean flash may be required if coming f
 ```
 
 ## Steps
-- Download `nx-tab-{date}.zip` (standard Android) or `nx-atv-{date}.zip` (Android TV) from the [Releases](https://github.com/LeddaZ/lineage-switch/releases/latest) page. Hekate is included.
-- Extract the zip file's contents to the SD card root.
-- If you want GApps, follow the instructions on the [LineageOS Wiki](https://wiki.lineageos.org/gapps).
+- Download `nx-tab-{date}.7z` (standard Android) or `nx-atv-{date}.7z` (Android TV) from the [Releases](https://github.com/LeddaZ/lineage-switch/releases/latest) page. Hekate is included; files with the `-gms` suffix have MindTheGApps included.
+- Extract the 7z file's contents to the SD card root.
 - If you want root, download the latest version of [Magisk](https://github.com/topjohnwu/Magisk/releases/latest). Flash it after the first boot.
-- Dump joycon pairing info, partition the SD card and flash required files by following steps 2 onwards [here](https://wiki.switchroot.org/en/Android/Setup-10#steps). Note that you'll find Lineage Recovery in these builds, so you can follow these instructions:
-  - Format data
-  - Flash LineageOS
-  - Reboot to recovery
-  - Format data again
-  - Flash GApps (optional)
-  - Reboot to system
+- Follow the official instructions [here](https://wiki.switchroot.org/en/Android/Setup-11).
 
-To update, download `lineage-18.1-{date}-UNOFFICIAL-nx_tab.zip` (standard Android) or `lineage-18.1-{date}-UNOFFICIAL-nx.zip` (Android TV) and flash it in recovery. You can also update from Settings -> System -> Updater.
+To update, download `lineage-18.1-{date}-UNOFFICIAL-nx_tab.zip` (standard Android) or `lineage-18.1-{date}-UNOFFICIAL-nx.zip` (Android TV) and flash it in recovery (files with the `-gms` suffix have MindTheGApps included). You can also update from Settings -> System -> Updater. **You can't update from a no-GMS build to a GMS build, you have to clean flash.** The updater will automatically download the correct build.
 
 <details><summary>17.1 steps</summary>
 
@@ -46,3 +39,4 @@ To update, download `lineage-17.1-XXXXXXXX-UNOFFICIAL-icosa_sr-signed.zip` (stan
 ## Credits
 - The [Switchroot](https://gitlab.com/switchroot) team for making all of this possible
 - [ZachyCatGames](https://gitlab.com/ZachyCatGames) for making a great [guide](https://gitlab.com/ZachyCatGames/q-tips-guide) for 17.1 before the official one came out.
+- [MindTheGapps](https://gitlab.com/MindTheGapps) for, well, the GApps
