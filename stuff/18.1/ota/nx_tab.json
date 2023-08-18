@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1685727782,
-      "filename": "lineage-18.1-20230602-UNOFFICIAL-nx_tab.zip",
-      "id": "9eaebfebcc8524eca387044d005a88e1",
+      "datetime": 1692315646,
+      "filename": "lineage-18.1-20230817-UNOFFICIAL-nx_tab.zip",
+      "id": "a601ae1a26228ad39dd87eabf3522eac",
       "romtype": "unofficial",
-      "size": 712794112,
-      "url": "https://github.com/LeddaZ/lineage-switch/releases/download/20230602/lineage-18.1-20230602-UNOFFICIAL-nx_tab.zip",
+      "size": 712368128,
+      "url": "https://github.com/LeddaZ/lineage-switch/releases/download/20230817/lineage-18.1-20230817-UNOFFICIAL-nx_tab.zip",
       "version": "18.1"
     }
   ]

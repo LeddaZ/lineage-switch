@@ -1,5 +1,11 @@
 # Changelog
 
+## 2023-08-17
+- August security patches
+- Added option to disable HDMI CEC (fixes volume UI not appearing in tablet builds); add `cec_disable=1` to `/bootloader/ini/android.ini`
+- MTP is now working
+- Other improvements
+
 ## 2023-06-02
 - May security patches
 - Fixed Bluetooth SCO and headphone mic
