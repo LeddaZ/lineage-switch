@@ -1,3 +1,7 @@
+# DISCONTINUED
+
+This project is abandoned. If you want to install Android on your Switch, follow the [official instructions](https://wiki.switchroot.org/wiki/android).
+
 # lineage-switch
 Unofficial LineageOS 17.1 and 18.1 builds (based on Android 10 and 11 respectively) for the Nintendo Switch. Official Switchroot builds are available here: [10](https://wiki.switchroot.org/en/Android/Setup-10), [11](https://wiki.switchroot.org/en/Android/Setup-11).
 
